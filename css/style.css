@@ -59,3 +59,12 @@ body {
 .active {
     padding-bottom: 10px;
 }
+
+span,
+.icon {
+    font-weight: 600;
+}
+
+p {
+    text-align: justify;
+}
