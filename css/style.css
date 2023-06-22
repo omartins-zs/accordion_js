@@ -25,3 +25,17 @@ body {
     padding: 10px;
     margin: auto 5px;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.accordion_item {
+    border-radius: 5px;
+}
+
+.accordion_item:hover {
+    opacity: 0.9;
+}
